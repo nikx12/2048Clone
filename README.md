@@ -1,0 +1,1 @@
+A small project to create a clone of 2048 game
